@@ -35,8 +35,8 @@ This is a simulation of the popular Jetpack Joyride game, built using C++ librar
         ./graphics_asgn1
     ```
  ## Screenshots from the game
- <img src="1.png" >
-<img src="2.png" >
-<img src="3.png" >
+ <img src="images/1.png" >
+<img src="images/2.png" >
+<img src="images/3.png" >
 
     
