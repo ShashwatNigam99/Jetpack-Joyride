@@ -1,11 +1,36 @@
-Graphics Boilerplate Code
-=========================
+# Jetpack-Game
 
-This is boilerplate code for the assignments which might be helpful.
+## Description:
+This is a simulation of the popular Jetpack Jotride game, built using C++ library, OpenGL. The game consists of most features the original game consists of, such as, player moving up, down, right and left, fire enemies, powerups,with some added enemies like Viserion, magnets and boomerangs. The score is displayed at the top left of the screen and the stage at the top right.
 
+## Controls:
+- **Moving up**
+    - Spacebar 
+    - Up Arrow 
+    - W key
+- **Moving down** 
+    - Down Arrow 
+    - S key
+- **Moving right** 
+    - Right Arrow 
+    - D key
+- **Moving left** 
+    - Left Arrow 
+    - A key
+- **Shoot water balloons** 
+    - X key
 
-License
--------
-The MIT License https://meghprkh.mit-license.org/
-
-Copyright &copy; 2018 Megh Parikh <meghprkh@gmail.com>
+## Running the code:
+* Create a directory outside the *src* directory, say *build*
+* Change directory to build and run 
+    ```bash
+        cmake ..
+    ```
+* Then run inside the build directory, 
+    ```bash
+        make
+    ```
+* Run the game using 
+    ```bash
+        ./graphics_asgn1
+    ```
