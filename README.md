@@ -1,7 +1,7 @@
 # Jetpack-Game
 
 ## Description:
-This is a simulation of the popular Jetpack Jotride game, built using C++ library, OpenGL. The game consists of most features the original game consists of, such as, player moving up, down, right and left, fire enemies, powerups,with some added enemies like Viserion, magnets and boomerangs. The score is displayed at the top left of the screen and the stage at the top right.
+This is a simulation of the popular Jetpack Joyride game, built using C++ library, OpenGL. The game consists of most features the original game consists of, such as, player moving up, down, right and left, fire enemies, powerups,with some added enemies like Viserion, magnets and boomerangs. The score is displayed at the top left of the screen and the number of lives left at the top right.
 
 ## Controls:
 - **Moving up**
@@ -34,3 +34,9 @@ This is a simulation of the popular Jetpack Jotride game, built using C++ librar
     ```bash
         ./graphics_asgn1
     ```
+ ## Screenshots from the game
+ <img src="1.png" >
+<img src="2.png" >
+<img src="3.png" >
+
+    
